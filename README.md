@@ -1,5 +1,7 @@
 # Nimgen
 This is just a basic password generator using Nim where letters are chosen based off of atmospheric randomness instead of the usual/math. I'd like to have it use as many languages and symbols as [genter](https://github.com/therealOri/Genter), but Nim is just REALLY painful to work with when it comes to unicode characters or anything that isn't standard on a NA/USA keyboard.
+
+Also this is kinda almost my first attempt at making something in Nim, to many they'll make a hello world script. Whereas, I make password generators. If you can make a password generator in a different language then you'll definitely learn something along the way.
 __ __
 
 <br>
