@@ -112,7 +112,7 @@ if howmany < 1:
 
 
 clear()
-echo "Generating passwords...\n"
+echo "Generating password(s)...\n"
 generatePassword(length, howmany)
 
 
