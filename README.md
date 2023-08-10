@@ -1,5 +1,5 @@
 # Nimgen
-This is just a basic password generator using Nim, I'd like to have it use as many languages and symbols as [genter](https://github.com/therealOri/Genter), but Nim is just REALLY painful to work with when it comes to unicode characters or anything that isn't standard on a NA/USA keyboard.
+This is just a basic password generator using Nim where letters are chosen based off of atmospheric randomness instead of the usual/math. I'd like to have it use as many languages and symbols as [genter](https://github.com/therealOri/Genter), but Nim is just REALLY painful to work with when it comes to unicode characters or anything that isn't standard on a NA/USA keyboard.
 __ __
 
 <br>
