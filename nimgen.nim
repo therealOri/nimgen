@@ -5,10 +5,11 @@ import random
 import os
 
 
+# You can increase the likelyhood of an option being picked by adding more and more to that option.
 const uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 const lowercase = "abcdefghijklmnopqrstuvwxyz"
 const symbols = "!=<>'@#$%^&*()[\\],.;:-_/+?{|}`~"
-const numbers = "0123456789"
+const numbers = "012345678901234567890123456789"
 
 #TODO
 # - [] Add more languages and unicode characters.
@@ -99,7 +100,7 @@ echo "How long do you want your password(s) to be?: "
 let length = readline(stdin).parseInt
 if length < 20:
     clear()
-    quit("Passwords can NOT be less than '20' in length...")
+    quit("Password(s) can NOT be less than '20' in length...")
 
 
 
