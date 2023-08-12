@@ -9,7 +9,7 @@ import os
 const uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 const lowercase = "abcdefghijklmnopqrstuvwxyz"
 const symbols = "!=<>'@#$%^&*()[\\],.;:-_/+?{|}`~"
-const numbers = "012345678901234567890123456789"
+const numbers = "012345678901234567890"
 
 #TODO
 # - [] Add more languages and unicode characters.
